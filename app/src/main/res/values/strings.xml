@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Proyecto1</string>
+    <string name="fecha">fecha de nacimiento</string>
+    <string name="boton">siguiente</string>
+    <string name="boton2">Editar datos</string>
+    <string name="titulo1">Confirme sus datos</string>
+</resources>
